@@ -1,0 +1,148 @@
+commit 54bbdc98a3368e5a535255b8231d608f2a7040b2
+Author: Luka Tepponen <anna.tepponen@helsinki.fi>
+Date:   Tue Mar 21 18:04:58 2023 +0200
+
+
+    muutoksia
+
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+
+commit 350ae881e2f10722fcc284c282d08837a649cc6b
+Author: Luka Tepponen <anna.tepponen@helsinki.fi>
+Date:   Tue Mar 21 17:57:17 2023 +0200
+
+
+    lisäyksiä
+
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+
+commit e94a4ee67349dcdd82decad8bbfcf79c276ceb41
+Author: Luka Tepponen <anna.tepponen@helsinki.fi>
+Date:   Tue Mar 21 17:47:05 2023 +0200
+
+
+    muutoksia
+
+
+ eka.txt    | 2 +-
+ kolmas.txt | 4 +++-
+ 2 files changed, 4 insertions(+), 2 deletions(-)
+
+
+commit 30936998f9e0248217feffb8bb3892741449242a
+Author: Luka Tepponen <anna.tepponen@helsinki.fi>
+Date:   Tue Mar 21 17:43:03 2023 +0200
+
+
+    nimenmuutos
+
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+
+commit df64f9a0cc3f65c024d1e991bfb0c92fc7bd151f
+Author: Luka Tepponen <anna.tepponen@helsinki.fi>
+Date:   Tue Mar 21 17:39:45 2023 +0200
+
+
+    poisto
+
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+
+commit e32ca98b62e0ced45fb2fc1e249cd7acaa8f4b7c
+Author: Luka Tepponen <anna.tepponen@helsinki.fi>
+Date:   Tue Mar 21 17:35:02 2023 +0200
+
+
+    muutos
+
+
+ tiedosto.txt | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+
+commit f89786d9b533f7818b306a309d315e999a4f65b8
+Author: Luka Tepponen <anna.tepponen@helsinki.fi>
+Date:   Tue Mar 21 17:33:47 2023 +0200
+
+
+    muutos
+
+
+ tiedosto.txt | 6 +++++-
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+
+
+commit f425c13358cbaca70b9a5522f90ec772ecdda92f
+Author: Luka Tepponen <anna.tepponen@helsinki.fi>
+Date:   Tue Mar 21 17:26:08 2023 +0200
+
+
+    lisäys
+
+
+ stuff/1.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+
+commit 7fe45265355402f7fcc63f528c465be34b101ed8
+Author: Luka Tepponen <anna.tepponen@helsinki.fi>
+Date:   Tue Mar 21 17:23:22 2023 +0200
+
+
+    muutoksia
+
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+
+commit 44996c55173ff9bbff5bc769515aacfc1b651164
+Author: Luka Tepponen <anna.tepponen@helsinki.fi>
+Date:   Tue Mar 21 17:20:15 2023 +0200
+
+
+    lisäys
+
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+
+commit d1f3551fe5987952319810937a588022fa891a46
+Author: Luka Tepponen <anna.tepponen@helsinki.fi>
+Date:   Tue Mar 21 17:14:16 2023 +0200
+
+
+    muutos ja lisäys
+
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+
+commit 7151a11a603e3b7165487ee66ea73336e5bb3895
+Author: Luka Tepponen <anna.tepponen@helsinki.fi>
+Date:   Tue Mar 21 02:18:36 2023 +0200
+
+
+    tiedosto.txt luotu
+
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
