@@ -6,6 +6,7 @@
 
 [komentorivi.txt](https://github.com/teppluka/ot_harjoitustyo/blob/main/laskarit/viikko1/komentorivi.txt)
 
-[vaatimusmäärittely](https://github.com/teppluka/ot_harjoitustyo/blob/main/dokumentaatio/vaatimusmaarittely.md)
+[vaatimusmäärittely.md](https://github.com/teppluka/ot_harjoitustyo/blob/main/dokumentaatio/vaatimusmaarittely.md)
 
+[tyoaikakirjanpito.md](https://github.com/teppluka/ot_harjoitustyo/blob/main/dokumentaatio/tyoaikakirjanpito.md)
 
