@@ -1,10 +1,10 @@
-#Vaatimusmäärittely
+# Vaatimusmäärittely
 
-##Sovelluksen tarkoitus
+## Sovelluksen tarkoitus
 
 Sovellus on yksinpelattava reaaliaikainen tornipuolustuspeli, jossa pelaaja yrittää puolustaa maalia vihollisilta.
 
-##Perusversion toiminnallisuus
+## Perusversion toiminnallisuus
 
 - Pelaaja voi sijoittaa kartalle torneja
 - Kartalla kulkee rataa pitkin vihollisia, joita tornit ampuvat automaattisesti
@@ -14,7 +14,7 @@ Sovellus on yksinpelattava reaaliaikainen tornipuolustuspeli, jossa pelaaja yrit
 - Jos pelaajan terveys loppuu, hän häviää pelin ja voi halutessaan yrittää uudestaan
 - Vihollisia on rajallinen määrä, ja pelaaja voittaa pelin niiden loppuessa
 
-##Mahdollinen jatkokehitys
+## Mahdollinen jatkokehitys
 
 - Pelaaja voi pysäyttää vihollisten ja tornien toiminnan tornien asettelun ajaksi
 - Erilaisia vihollisia ja torneja
